@@ -1,4 +1,2 @@
 conda activate myapi
-uvicorn main:app --reload
-
-1:20
+uvicorn app.main:app --reload
