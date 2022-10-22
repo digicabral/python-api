@@ -1,2 +1,4 @@
 conda activate myapi
 uvicorn app.main:app --reload
+
+2:24
