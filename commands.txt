@@ -2,3 +2,4 @@ conda activate myapi
 uvicorn app.main:app --reload
 
 pip install sqlalchemy
+pip install passlib[bcrypt]
